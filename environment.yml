@@ -13,3 +13,4 @@ dependencies:
   - h5py
   - pyarrow
   - pytorch
+  - scikit-learn
