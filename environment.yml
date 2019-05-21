@@ -1,0 +1,15 @@
+channels:
+  - conda-forge
+  - pytorch
+dependencies:
+  - root
+  - root_numpy
+  - uproot
+  - pybind11
+  - pandas
+  - matplotlib
+  - numba
+  - dask
+  - h5py
+  - pyarrow
+  - pytorch
