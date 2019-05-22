@@ -10,7 +10,6 @@ dependencies:
   - scikit-learn
   - pytorch-cpu
   - sympy
-  - tensorflow
   - uncertainties
   - pip:
       - formulate
