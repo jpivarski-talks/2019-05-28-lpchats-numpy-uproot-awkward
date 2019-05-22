@@ -2,15 +2,20 @@ channels:
   - conda-forge
   - pytorch
 dependencies:
-  - root
-  - root_numpy
   - uproot
-  - pybind11
+  - numpy
   - pandas
   - matplotlib
+  - iminuit
+  - scikit-learn
+  - pytorch-cpu
   - numba
   - dask
+  - python-graphviz
+  - cython
+  - pybind11
+  - pillow
+  - root
+  - root_numpy
   - h5py
   - pyarrow
-  - pytorch-cpu
-  - scikit-learn
