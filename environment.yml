@@ -9,6 +9,13 @@ dependencies:
   - iminuit
   - scikit-learn
   - pytorch-cpu
+  - sympy
+  - uncertainties
+  - pip:
+      - particle
+      - pylhe
+      - numpythia
+      - pyjet
   - numba
   - dask
   - python-graphviz
