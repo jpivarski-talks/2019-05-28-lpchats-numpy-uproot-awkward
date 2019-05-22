@@ -12,5 +12,5 @@ dependencies:
   - dask
   - h5py
   - pyarrow
-  - pytorch
+  - pytorch-cpu
   - scikit-learn
