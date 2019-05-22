@@ -12,6 +12,7 @@ dependencies:
   - sympy
   - uncertainties
   - pip:
+      - formulate
       - particle
       - numpythia
       - pyjet
