@@ -2,8 +2,8 @@ channels:
   - conda-forge
   - pytorch
 dependencies:
-  - uproot
   - numpy
+  - uproot
   - pandas
   - matplotlib
   - iminuit
@@ -13,9 +13,10 @@ dependencies:
   - uncertainties
   - pip:
       - formulate
-      - particle
       - numpythia
       - pyjet
+      - particle
+      - pyhf
   - numba
   - dask
   - python-graphviz
