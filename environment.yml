@@ -1,3 +1,5 @@
+name:
+  - lpchats2019-uproot-awkward
 channels:
   - conda-forge
   - pytorch
