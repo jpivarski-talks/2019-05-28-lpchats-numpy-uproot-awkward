@@ -2,12 +2,12 @@
 
 Jim's tutorials for LPC HATS:
 
-   * [Scientific Python and Uproot](https://indico.cern.ch/event/814895), May 28, 2019 in Wilson Hall 11th floor Sunrise conference room
-   * [Columnar Analysis Tools](https://indico.cern.ch/event/814100), May 29, 2019 in the same location.
+   * [Scientific Python and Uproot](https://indico.cern.ch/event/814895), May 28, 2019 at Wilson Hall 11th floor Sunrise conference room.
+   * [Columnar Analysis Tools](https://indico.cern.ch/event/814100), May 29, 2019 at the same location.
 
 For help, log into the [HATS Mattermost channel](https://mattermost.web.cern.ch/cms-exp/channels/hatslpc-2019).
 
-To participate, either install all of the software on your laptop (with [conda](https://docs.conda.io/en/latest/miniconda.html), an isolated 3.1 GB environment):
+To participate, either install all of the software on your laptop (with [conda](https://docs.conda.io/en/latest/miniconda.html), an isolated 3.1 GB environment that you can remove with `conda remove --name lpchats2019-uproot-awkward --all`):
 
 ```bash
 git clone https://github.com/jpivarski/2019-05-28-lpchats-numpy-uproot-awkward.git
