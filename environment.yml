@@ -18,6 +18,7 @@ dependencies:
       - pyjet
       - particle
       - pyhf
+  - numexpr
   - numba
   - dask
   - python-graphviz
