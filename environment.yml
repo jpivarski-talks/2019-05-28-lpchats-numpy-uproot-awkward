@@ -18,6 +18,7 @@ dependencies:
       - pyjet
       - particle
       - pyhf
+      - root_numpy
   - numexpr
   - numba
   - dask
@@ -26,6 +27,5 @@ dependencies:
   - pybind11
   - pillow
   - root
-  - root_numpy
   - h5py
   - pyarrow
