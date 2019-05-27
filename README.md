@@ -21,4 +21,4 @@ jupyter lab                                 # runs on your machine, controlled b
 
 or click below to run everything in the cloud: [![Launch Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/jpivarski/2019-05-28-lpchats-numpy-uproot-awkward/1.0?urlpath=lab)
 
-_(If installation on your laptop fails, use the cloud option. GPU libraries not included.)_
+_(If installation on your laptop fails, use the cloud option. GPU libraries and numpythia not included.)_
