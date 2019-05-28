@@ -12,7 +12,7 @@ To participate, either install all of the software on your laptop (with [conda](
 ```bash
 git clone https://github.com/jpivarski/2019-05-28-lpchats-numpy-uproot-awkward.git
 cd 2019-05-28-lpchats-numpy-uproot-awkward
-conda create -f environment.yml             # create an isolated environment and install everything
+conda env create -f environment.yml             # create an isolated environment and install everything
 conda activate lpchats2019-uproot-awkward   # switch to that environment (maybe "source activate...")
 conda install jupyterlab
 pip install --no-cache numpythia            # only one example uses numpythia; it's slow to install
